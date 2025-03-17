@@ -1,0 +1,83 @@
+
+body{ background: #fff;}
+.home-icons{ display: flex; justify-content: space-between; padding: 0 50px; flex-wrap: wrap;}
+.home-icons .circle{ text-align: center;}
+.home-icons .circle img{ width: 80px; height: 80px;  object-fit: cover;}
+
+.pic p{color:red;font-weight:700;padding-top:120px}
+.pic a{text-decoration:none}
+.bumi{font-size:20px;font-weight:700;text-decoration:none;color:#000}
+.all{font-size:25px;font-weight:700}
+.late h2{font-size:35px;color:red;font-weight:700}
+.late span{color:#8b0000}
+.slider{ padding: 0;}
+.bx-wrapper{ box-shadow: none;}
+.photo{ border: solid 1px #DDD;  border-radius: 5px; position: relative; margin: 0 5px;}
+.photo .prop-image img{ width: 100%; height: 200; object-fit: cover; }
+.photo .detail{ padding: 10px; }
+.photo .tag{ position: absolute; background-color: rgba(0, 0, 0, 0.7); padding: 2px 15px; font-size: 12px; border-radius: 2px; left: 10px; top: 10px; color: #fff;}
+.photo .prop-title{ font-size: 16px;}
+
+.post{padding:15px;height:100%;width:100%;background-color:orange;line-height:15px}
+.post p{font-size:10px}
+.post img{height:50px;width:50px}
+.post h3{color:red;font-size:16px;padding-top:10px}
+.dream{background:linear-gradient(80deg,#87ceeb,purple);padding:15px;height:100%;width:100%;background-color:orange;line-height:15px}
+.dream a{position:relative;top:18px}
+.dream p{font-size:15px;color:#fff}
+.dream img{height:50px;width:50px}
+.dream h3{color:#fff;font-size:18px;padding-top:10px}
+
+.stations{ display: flex; justify-content: space-between; flex-wrap: wrap;}
+.stations div{ width: 20%; margin-bottom: 15px;}
+.stations div img{ width: 100%;}
+
+.blog-list-items{ margin: 0; padding: 20px 0;}
+.blog-list-items ul{ list-style: none; margin: 0; padding: 0;}
+.blog-list-items ul li{ background: url('./img/vote-yes.png') left center no-repeat; padding-left: 60px; margin-bottom: 15px; background-size: 40px; font-size: 20px;}
+.blog-list-items ul li a{ color: #222; text-decoration: none;}
+.blog-list-items ul li a:hover{ color: #0b6e33;}
+
+@media screen and (max-width:600px){
+.dream a{position:relative;top:5px}
+.stations{ flex-wrap: wrap; }
+.stations div{ width: 50%; flex: auto;}
+.home-icons{ padding: 0;}
+.home-icons .circle{ width: 33%;}
+}
+.user{background:linear-gradient(80deg,#8b4513,#b8860b);padding:15px;height:100%;width:100%;background-color:orange;line-height:20px}
+.user a{position:relative;top:50px}
+.user img{height:60px;width:100px}
+.user h3{position:relative;top:30px;color:#fff;font-size:18px}
+@media screen and (max-width:600px){
+.user a{position:relative;top:10px}
+.user h3{position:relative;top:10px;color:#fff;font-size:15px}
+}
+.online{background:linear-gradient(80deg,#b0e0e6,#87ceeb);padding:15px;height:100%;width:100%;background-color:orange}
+.online img{height:50px;width:50px}
+.online h2{color:#000;font-size:29px;padding-top:20px}
+.online p{color:#000;font-size:12px}
+.online a{position:relative;top:5px}
+.profile{background:linear-gradient(95deg,purple,gold);padding:10px;height:100%;width:100%;line-height:25px}
+.profile h1{color:#fff;font-size:20px}
+.profile p{font-size:12px}
+.amin{background:linear-gradient(70deg,#8a2be2,#add8e6);padding:10px;height:100%;width:100%;line-height:25px}
+.amin h1{color:#fff;font-size:20px}
+.amin p{font-size:12px}
+.munsi{background:linear-gradient(70deg,#696969,#fff);padding:10px;height:100%;width:100%}
+.munsi h1{color:#fff;font-size:20px;position:relative;bottom:15px}
+.munsi p{font-size:12px;position:relative;bottom:15px}
+.munsi a{position:relative;bottom:15px}
+.munsi a img{height:50px;color:orange;position:relative}
+.point{background-color:#ff69b4;padding:20px;height:100%;width:100%;line-height:50px}
+.point h1{padding-top:20px;color:#fff;font-size:20px}
+.point a{position:relative;top:16px}
+.seva span{color:red}
+.find b{color:red; }
+.find span{color:#8b0000}
+.station img{display:inline-block}
+.home{background-color:#ffb6c1;padding:15px}
+.home a{padding:20px;font-size:20px;font-weight:500;padding-top:10px;text-decoration:none;color:#000}
+.social a img{display:inline-block;text-decoration:none;height:40px;width:100px;padding:5px}
+.media a img{display:inline-block;text-decoration:none;height:30px;width:30px;margin-inline:4px;padding-top:5px}
+.statement{text-align: justify; font-size: 12px; }

@@ -1,0 +1,12 @@
+[13-Nov-2024 10:39:12 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home3/biharohi/public_html/config/database.php:574
+Stack trace:
+#0 /home3/biharohi/public_html/config/database.php(574): mysqli_query(Object(mysqli), 'DELETE FROM `ai...')
+#1 /home3/biharohi/public_html/admin/media/careers.php(7): Database->delete('ai_resume_uploa...', Array)
+#2 {main}
+  thrown in /home3/biharohi/public_html/config/database.php on line 574
+[13-Nov-2024 10:39:16 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home3/biharohi/public_html/config/database.php:574
+Stack trace:
+#0 /home3/biharohi/public_html/config/database.php(574): mysqli_query(Object(mysqli), 'DELETE FROM `ai...')
+#1 /home3/biharohi/public_html/admin/media/careers.php(7): Database->delete('ai_resume_uploa...', Array)
+#2 {main}
+  thrown in /home3/biharohi/public_html/config/database.php on line 574

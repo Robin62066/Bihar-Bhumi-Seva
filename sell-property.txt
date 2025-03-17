@@ -1,0 +1,17 @@
+<script async src="https://maps.googleapis.com/maps/api/js?key=<?= GOOGLE_API_KEY ?>&loading=async&callback=initMap">
+</script>
+<script>
+    function mapDraw(latitude, longitude) {
+        var myLatlng = new google.maps.LatLng(latitude, longitude);
+        var myOptions = {
+            zoom: 14,
+            center: myLatlng,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
+        var map = new google.maps.Map(document.getElementById("mapview"), myOptions);
+    }
+
+    function initMap() {
+        mapDraw('<?= $item->lat; ?>', '<?= $item->lng; ?>');
+    }
+</script>

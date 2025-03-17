@@ -1,0 +1,25 @@
+[16-Feb-2024 15:35:00 Asia/Kolkata] PHP Warning:  Undefined variable $id in /home3/biharohi/public_html/admin/properties/add-new.php on line 191
+[16-Feb-2024 15:35:00 Asia/Kolkata] PHP Warning:  Undefined variable $site in /home3/biharohi/public_html/admin/properties/add-new.php on line 256
+[16-Feb-2024 15:35:00 Asia/Kolkata] PHP Warning:  Attempt to read property "dist_id" on null in /home3/biharohi/public_html/admin/properties/add-new.php on line 256
+[16-Feb-2024 15:35:00 Asia/Kolkata] PHP Warning:  Undefined variable $site in /home3/biharohi/public_html/admin/properties/add-new.php on line 257
+[16-Feb-2024 15:35:00 Asia/Kolkata] PHP Warning:  Attempt to read property "zone_id" on null in /home3/biharohi/public_html/admin/properties/add-new.php on line 257
+[16-Feb-2024 15:35:37 Asia/Kolkata] PHP Warning:  Undefined variable $id in /home3/biharohi/public_html/admin/properties/add-new.php on line 191
+[16-Feb-2024 15:35:37 Asia/Kolkata] PHP Warning:  Undefined variable $site in /home3/biharohi/public_html/admin/properties/add-new.php on line 256
+[16-Feb-2024 15:35:37 Asia/Kolkata] PHP Warning:  Attempt to read property "dist_id" on null in /home3/biharohi/public_html/admin/properties/add-new.php on line 256
+[16-Feb-2024 15:35:37 Asia/Kolkata] PHP Warning:  Undefined variable $site in /home3/biharohi/public_html/admin/properties/add-new.php on line 257
+[16-Feb-2024 15:35:37 Asia/Kolkata] PHP Warning:  Attempt to read property "zone_id" on null in /home3/biharohi/public_html/admin/properties/add-new.php on line 257
+[16-Feb-2024 15:40:54 Asia/Kolkata] PHP Warning:  Undefined variable $id in /home3/biharohi/public_html/admin/properties/add-new.php on line 200
+[16-Feb-2024 15:40:54 Asia/Kolkata] PHP Warning:  Undefined variable $site in /home3/biharohi/public_html/admin/properties/add-new.php on line 265
+[16-Feb-2024 15:40:54 Asia/Kolkata] PHP Warning:  Attempt to read property "dist_id" on null in /home3/biharohi/public_html/admin/properties/add-new.php on line 265
+[16-Feb-2024 15:40:54 Asia/Kolkata] PHP Warning:  Undefined variable $site in /home3/biharohi/public_html/admin/properties/add-new.php on line 266
+[16-Feb-2024 15:40:54 Asia/Kolkata] PHP Warning:  Attempt to read property "zone_id" on null in /home3/biharohi/public_html/admin/properties/add-new.php on line 266
+[16-Feb-2024 15:41:12 Asia/Kolkata] PHP Warning:  Undefined variable $id in /home3/biharohi/public_html/admin/properties/add-new.php on line 200
+[16-Feb-2024 15:41:12 Asia/Kolkata] PHP Warning:  Undefined variable $site in /home3/biharohi/public_html/admin/properties/add-new.php on line 265
+[16-Feb-2024 15:41:12 Asia/Kolkata] PHP Warning:  Attempt to read property "dist_id" on null in /home3/biharohi/public_html/admin/properties/add-new.php on line 265
+[16-Feb-2024 15:41:12 Asia/Kolkata] PHP Warning:  Undefined variable $site in /home3/biharohi/public_html/admin/properties/add-new.php on line 266
+[16-Feb-2024 15:41:12 Asia/Kolkata] PHP Warning:  Attempt to read property "zone_id" on null in /home3/biharohi/public_html/admin/properties/add-new.php on line 266
+[16-Feb-2024 15:41:18 Asia/Kolkata] PHP Warning:  Undefined variable $id in /home3/biharohi/public_html/admin/properties/add-new.php on line 200
+[16-Feb-2024 15:41:18 Asia/Kolkata] PHP Warning:  Undefined variable $site in /home3/biharohi/public_html/admin/properties/add-new.php on line 265
+[16-Feb-2024 15:41:18 Asia/Kolkata] PHP Warning:  Attempt to read property "dist_id" on null in /home3/biharohi/public_html/admin/properties/add-new.php on line 265
+[16-Feb-2024 15:41:18 Asia/Kolkata] PHP Warning:  Undefined variable $site in /home3/biharohi/public_html/admin/properties/add-new.php on line 266
+[16-Feb-2024 15:41:18 Asia/Kolkata] PHP Warning:  Attempt to read property "zone_id" on null in /home3/biharohi/public_html/admin/properties/add-new.php on line 266

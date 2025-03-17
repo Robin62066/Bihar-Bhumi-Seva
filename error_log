@@ -1,0 +1,105 @@
+[06-Jan-2025 18:52:53 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile' in 'where clause' in /home3/biharohi/public_html/config/database.php:199
+Stack trace:
+#0 /home3/biharohi/public_html/config/database.php(199): mysqli->query('SELECT * FROM `...')
+#1 /home3/biharohi/public_html/config/database.php(183): Database->query('SELECT * FROM `...')
+#2 /home3/biharohi/public_html/property-leads.php(47): Database->select('ai_users', Array, 1)
+#3 {main}
+  thrown in /home3/biharohi/public_html/config/database.php on line 199
+[06-Jan-2025 19:05:38 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile' in 'where clause' in /home3/biharohi/public_html/config/database.php:199
+Stack trace:
+#0 /home3/biharohi/public_html/config/database.php(199): mysqli->query('SELECT * FROM `...')
+#1 /home3/biharohi/public_html/config/database.php(183): Database->query('SELECT * FROM `...')
+#2 /home3/biharohi/public_html/property-leads.php(59): Database->select('ai_users', Array, 1)
+#3 {main}
+  thrown in /home3/biharohi/public_html/config/database.php on line 199
+[06-Jan-2025 19:08:34 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile' in 'where clause' in /home3/biharohi/public_html/config/database.php:199
+Stack trace:
+#0 /home3/biharohi/public_html/config/database.php(199): mysqli->query('SELECT * FROM `...')
+#1 /home3/biharohi/public_html/config/database.php(183): Database->query('SELECT * FROM `...')
+#2 /home3/biharohi/public_html/property-leads.php(59): Database->select('ai_users', Array, 1)
+#3 {main}
+  thrown in /home3/biharohi/public_html/config/database.php on line 199
+[06-Jan-2025 19:09:41 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile' in 'where clause' in /home3/biharohi/public_html/config/database.php:199
+Stack trace:
+#0 /home3/biharohi/public_html/config/database.php(199): mysqli->query('SELECT * FROM `...')
+#1 /home3/biharohi/public_html/config/database.php(183): Database->query('SELECT * FROM `...')
+#2 /home3/biharohi/public_html/property-leads.php(59): Database->select('ai_users', Array, 1)
+#3 {main}
+  thrown in /home3/biharohi/public_html/config/database.php on line 199
+[06-Jan-2025 19:14:24 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile' in 'where clause' in /home3/biharohi/public_html/config/database.php:199
+Stack trace:
+#0 /home3/biharohi/public_html/config/database.php(199): mysqli->query('SELECT * FROM `...')
+#1 /home3/biharohi/public_html/config/database.php(183): Database->query('SELECT * FROM `...')
+#2 /home3/biharohi/public_html/property-leads.php(47): Database->select('ai_users', Array, 1)
+#3 {main}
+  thrown in /home3/biharohi/public_html/config/database.php on line 199
+[06-Jan-2025 19:22:24 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile' in 'where clause' in /home3/biharohi/public_html/config/database.php:199
+Stack trace:
+#0 /home3/biharohi/public_html/config/database.php(199): mysqli->query('SELECT * FROM `...')
+#1 /home3/biharohi/public_html/config/database.php(183): Database->query('SELECT * FROM `...')
+#2 /home3/biharohi/public_html/property-leads.php(47): Database->select('ai_users', Array, 1)
+#3 {main}
+  thrown in /home3/biharohi/public_html/config/database.php on line 199
+[07-Jan-2025 11:38:31 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile' in 'where clause' in /home3/biharohi/public_html/config/database.php:199
+Stack trace:
+#0 /home3/biharohi/public_html/config/database.php(199): mysqli->query('SELECT * FROM `...')
+#1 /home3/biharohi/public_html/config/database.php(183): Database->query('SELECT * FROM `...')
+#2 /home3/biharohi/public_html/property-leads.php(47): Database->select('ai_users', Array, 1)
+#3 {main}
+  thrown in /home3/biharohi/public_html/config/database.php on line 199
+[07-Jan-2025 11:41:36 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile' in 'where clause' in /home3/biharohi/public_html/config/database.php:199
+Stack trace:
+#0 /home3/biharohi/public_html/config/database.php(199): mysqli->query('SELECT * FROM `...')
+#1 /home3/biharohi/public_html/config/database.php(183): Database->query('SELECT * FROM `...')
+#2 /home3/biharohi/public_html/property-leads.php(47): Database->select('ai_users', Array, 1)
+#3 {main}
+  thrown in /home3/biharohi/public_html/config/database.php on line 199
+[07-Jan-2025 11:42:36 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile' in 'where clause' in /home3/biharohi/public_html/config/database.php:199
+Stack trace:
+#0 /home3/biharohi/public_html/config/database.php(199): mysqli->query('SELECT * FROM `...')
+#1 /home3/biharohi/public_html/config/database.php(183): Database->query('SELECT * FROM `...')
+#2 /home3/biharohi/public_html/property-leads.php(47): Database->select('ai_users', Array, 1)
+#3 {main}
+  thrown in /home3/biharohi/public_html/config/database.php on line 199
+[07-Jan-2025 11:53:55 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile' in 'where clause' in /home3/biharohi/public_html/config/database.php:199
+Stack trace:
+#0 /home3/biharohi/public_html/config/database.php(199): mysqli->query('SELECT * FROM `...')
+#1 /home3/biharohi/public_html/config/database.php(183): Database->query('SELECT * FROM `...')
+#2 /home3/biharohi/public_html/property-leads.php(47): Database->select('ai_users', Array, 1)
+#3 {main}
+  thrown in /home3/biharohi/public_html/config/database.php on line 199
+[07-Jan-2025 11:58:16 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile' in 'where clause' in /home3/biharohi/public_html/config/database.php:199
+Stack trace:
+#0 /home3/biharohi/public_html/config/database.php(199): mysqli->query('SELECT * FROM `...')
+#1 /home3/biharohi/public_html/config/database.php(183): Database->query('SELECT * FROM `...')
+#2 /home3/biharohi/public_html/property-leads.php(47): Database->select('ai_users', Array, 1)
+#3 {main}
+  thrown in /home3/biharohi/public_html/config/database.php on line 199
+[07-Jan-2025 12:08:00 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile' in 'where clause' in /home3/biharohi/public_html/config/database.php:199
+Stack trace:
+#0 /home3/biharohi/public_html/config/database.php(199): mysqli->query('SELECT * FROM `...')
+#1 /home3/biharohi/public_html/config/database.php(183): Database->query('SELECT * FROM `...')
+#2 /home3/biharohi/public_html/property-leads.php(47): Database->select('ai_users', Array, 1)
+#3 {main}
+  thrown in /home3/biharohi/public_html/config/database.php on line 199
+[07-Jan-2025 12:08:23 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile' in 'where clause' in /home3/biharohi/public_html/config/database.php:199
+Stack trace:
+#0 /home3/biharohi/public_html/config/database.php(199): mysqli->query('SELECT * FROM `...')
+#1 /home3/biharohi/public_html/config/database.php(183): Database->query('SELECT * FROM `...')
+#2 /home3/biharohi/public_html/property-leads.php(47): Database->select('ai_users', Array, 1)
+#3 {main}
+  thrown in /home3/biharohi/public_html/config/database.php on line 199
+[07-Jan-2025 12:42:01 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile' in 'where clause' in /home3/biharohi/public_html/config/database.php:199
+Stack trace:
+#0 /home3/biharohi/public_html/config/database.php(199): mysqli->query('SELECT * FROM `...')
+#1 /home3/biharohi/public_html/config/database.php(183): Database->query('SELECT * FROM `...')
+#2 /home3/biharohi/public_html/property-leads.php(47): Database->select('ai_users', Array, 1)
+#3 {main}
+  thrown in /home3/biharohi/public_html/config/database.php on line 199
+[07-Jan-2025 13:22:57 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mobile' in 'where clause' in /home3/biharohi/public_html/config/database.php:199
+Stack trace:
+#0 /home3/biharohi/public_html/config/database.php(199): mysqli->query('SELECT * FROM `...')
+#1 /home3/biharohi/public_html/config/database.php(183): Database->query('SELECT * FROM `...')
+#2 /home3/biharohi/public_html/property-leads.php(47): Database->select('ai_users', Array, 1)
+#3 {main}
+  thrown in /home3/biharohi/public_html/config/database.php on line 199

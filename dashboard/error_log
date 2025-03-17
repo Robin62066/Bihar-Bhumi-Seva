@@ -1,0 +1,8 @@
+[21-Dec-2024 20:10:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function default_image() in /home3/biharohi/public_html/dashboard/profile.php:278
+Stack trace:
+#0 {main}
+  thrown in /home3/biharohi/public_html/dashboard/profile.php on line 278
+[21-Dec-2024 20:10:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function default_image() in /home3/biharohi/public_html/dashboard/profile.php:278
+Stack trace:
+#0 {main}
+  thrown in /home3/biharohi/public_html/dashboard/profile.php on line 278
