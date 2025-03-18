@@ -1,9 +1,9 @@
 <?php
 if ($site_live) {
-    define('HOSTNAME', 'localhost');
-    define('USERNAME', 'biharohi_db');
-    define('PASSWORD', 'xqBIFTaM+TNh');
-    define('DATABASE', 'biharohi_db');
+    define('HOSTNAME', '');
+    define('USERNAME', '');
+    define('PASSWORD', '');
+    define('DATABASE', '');
 } else {
     define('HOSTNAME', 'localhost');
     define('USERNAME', 'root');
